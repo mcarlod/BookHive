@@ -1,6 +1,6 @@
-# 📚 Bookworm App
+# 📚 BookHive
 
-**Bookworm** is a cross-platform book recommendation app built with **React Native** for mobile and **Node.js + Express + MongoDB** for the backend. Users can sign up, log in, share book recommendations, browse others’ posts, and manage their profile.
+**BookHive** is a cross-platform book recommendation app built with **React Native** for mobile and **Node.js + Express + MongoDB** for the backend. Users can sign up, log in, share book recommendations, browse others’ posts, and manage their profile.
 
 ---
 
