@@ -33,7 +33,7 @@ Here’s how the app works, step by step.
 
 ### 1️⃣ Create an Account
 Sign up to start posting book recommendations.
-<p><img src="screenshots/signup.png" alt="Signup Screen" width="150"/></p>
+<p><img src="screenshots/signup.jpg" alt="Signup Screen" width="150"/></p>
 
 ### 2️⃣ Log In
 Securely log in to access your feed.
@@ -45,7 +45,7 @@ Add a book title, description, rating, and cover image.
 
 ### 4️⃣ Browse the Feed
 View all book recommendations with smooth infinite scrolling.
-<p><img src="screenshots/home.png" alt="Home Screen" width="150"/></p>
+<p><img src="screenshots/home.jpg" alt="Home Screen" width="150"/></p>
 
 ### 5️⃣ View Your Profile
 See all your posts and profile details in one place. Logout and return to the login screen.

@@ -126,7 +126,7 @@ export default function Home() {
 
                 ListHeaderComponent={
                     <View style={styles.header}>
-                        <Text style={styles.headerTitle}>BookWorm</Text>
+                        <Text style={styles.headerTitle}>BookHive</Text>
                         <Text style={styles.headerSubtitle}>Discover great reads from the community</Text>
                     </View>
                 }
