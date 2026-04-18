@@ -63,7 +63,7 @@ See all your posts and profile details in one place. Logout and return to the lo
 
 ---
 
-## 🔑 Key Concepts Learned
+## 🔑 Key Concepts
 
 - Building a **full-stack mobile application**
 - Implementing **secure user authentication** with JWT
